@@ -61,7 +61,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 4K频道
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="4K频道",CCTV4K超高清
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/CCTV4K.png" group-title="4K频道",CCTV4K超高清
 http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="BJWS4K" tvg-name="北京卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K频道",北京卫视4K
@@ -73,22 +73,22 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002878/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="GDWS4K" tvg-name="广东卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K频道",广东卫视4K
 http://124.90.44.40:6060/010/2/01000010000000060000000000002877/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="DFWS4K" tvg-name="东方卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="4K频道",东方卫视4K
+#EXTINF:-1 tvg-id="DFWS4K" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/DFWS4K.png" group-title="4K频道",东方卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002067/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="HNWS4K" tvg-name="湖南卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖南卫视.png" group-title="4K频道",湖南卫视4K
+#EXTINF:-1 tvg-id="HNWS4K" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/HNWS4K.png" group-title="4K频道",湖南卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002069/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="JSWS4K" tvg-name="江苏卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江苏卫视.png" group-title="4K频道",江苏卫视4K
+#EXTINF:-1 tvg-id="JSWS4K" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/JSWS4K.png" group-title="4K频道",江苏卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002071/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="ZJWS4K" tvg-name="浙江卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="4K频道",浙江卫视4K
+#EXTINF:-1 tvg-id="ZJWS4K" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/ZJWS4K.png" group-title="4K频道",浙江卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="SCWS4K" tvg-name="四川卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/四川卫视.png" group-title="4K频道",四川卫视4K
+#EXTINF:-1 tvg-id="SCWS4K" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/SCWS4K.png" group-title="4K频道",四川卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="SDWS4K" tvg-name="山东卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="4K频道",山东卫视4K
+#EXTINF:-1 tvg-id="SDWS4K" tvg-name="山东卫视4K" tvg-logo="https://github.com/norhorizon/iptv/blob/main/tv_logo/SDWS4K.png" group-title="4K频道",山东卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 地方台系列频道
@@ -327,4 +327,3 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtua
 
 #EXTINF:-1 tvg-id="LTCS7" tvg-name="联通测试7" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试台",联通测试7
 http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
