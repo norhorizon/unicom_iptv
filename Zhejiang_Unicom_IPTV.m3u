@@ -61,6 +61,9 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 4K频道
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="4K频道",CCTV4K超高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="BJWS4K" tvg-name="北京卫视4K" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://124.90.44.40:6060/010/2/01000010000000060000000000002865/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
@@ -310,9 +313,6 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000486/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000482/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 测试台
-#EXTINF:-1 tvg-id="LTCS1" tvg-name="联通测试1" tvg-logo="https://img.iptv2022.com/logo/ltcs1.png" group-title="测试台",联通测试1
-http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
 #EXTINF:-1 tvg-id="LTCS2" tvg-name="联通测试2" tvg-logo="https://img.iptv2022.com/logo/ltcs2.png" group-title="测试台",联通测试2
 http://124.90.44.40:6060/010/2/01000010000000060000000000002860/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
@@ -327,3 +327,4 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtua
 
 #EXTINF:-1 tvg-id="LTCS7" tvg-name="联通测试7" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试台",联通测试7
 http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
