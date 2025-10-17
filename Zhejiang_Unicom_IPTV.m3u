@@ -88,7 +88,7 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="SCWS4K" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/SCWS4K.png" group-title="4K频道",四川卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="SDWS4K" tvg-name="山东卫视4K" tvg-logo="https://github.com/norhorizon/iptv/blob/main/tv_logo/SDWS4K.png" group-title="4K频道",山东卫视4K
+#EXTINF:-1 tvg-id="SDWS4K" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/SDWS4K.png" group-title="4K频道",山东卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 地方台系列频道
@@ -327,3 +327,4 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtua
 
 #EXTINF:-1 tvg-id="LTCS7" tvg-name="联通测试7" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试台",联通测试7
 http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
